@@ -14,8 +14,8 @@
 
 ### 📬 Connect with me:
 <div align="left">
-  <a href="mailto:fierroernesto5@gmail.com" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="fierroernesto5" height="30" width="40" />
+  <a href="mailto:fierroernesto5@gmail.com" target="_blank">
+    <img align="center" src="https://unpkg.com/simple-icons@v13/icons/gmail.svg" alt="Gmail" height="35" width="40" />
   </a>
   <a href="https://www.linkedin.com/in/jesserfi/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jesús-fierro" height="30" width="40" />
